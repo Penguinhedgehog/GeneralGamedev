@@ -1,2 +1,2 @@
 # GeneralGamedev
-Creating a private github to store any gamedev information
+This is a local Repository designed to showcase any public game dev projects
