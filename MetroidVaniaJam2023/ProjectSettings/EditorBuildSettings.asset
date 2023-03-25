@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Pacheco Game/Scenes/Main Menu.unity
+    guid: f9b7ced037698b14ba7be4802c6c38b5
+  - enabled: 1
+    path: Assets/Pacheco Game/Scenes/Testing Scene.unity
+    guid: 1b5774aab96ecb941bc5c424621525ac
+  - enabled: 1
+    path: Assets/Pacheco Game/Scenes/GameOverScreen.unity
+    guid: efd77ca592cd75d499491690b182355a
+  - enabled: 1
+    path: Assets/Pacheco Game/Scenes/VictoryScreen.unity
+    guid: 976d739b6f834774ba6e538572af8495
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9fc508fd188f2674da0d3a669a7deea0, type: 2}
